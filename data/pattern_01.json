@@ -1,0 +1,81 @@
+{
+  "id": 1,
+  "title": "There be (not)...(没)有...",
+  "explanation": "在汉语里我们常说的“有一只鸟”或“有一个漂亮的女孩”等，都需要用到there is或there are句型，翻译成汉语就是“有……”（单纯说某人或某事物“存在”，没有特别说出人或物在“哪里”），是最基本的句型。",
+  "examples": [
+    {
+      "en": "There is a girl.",
+      "note": "“There＋be动词＋代词或名词（词组）＋地点／时间”是最常见并且非常实用的一个句型，表示“某地／某时有某人（或某物）”。否定形式是直接在be动词后面加not，也就是：There be not...。"
+    },
+    {
+      "en": "There is not a girl.",
+      "note": ""
+    },
+    {
+      "en": "There is a girl.",
+      "note": "There be指的就是汉语的“有”，其中的be动词可以以各种时态的形式出现，如现在式的is、are，过去式的was、were，未来式的will be等。"
+    },
+    {
+      "en": "There was a girl.",
+      "note": ""
+    },
+    {
+      "en": "There is a pen and two books on the desk.",
+      "note": "在这个句型中，主语是名词、名词词组，所以be动词的单复数形式要和主语的单复数一致。如果句子中出现两个主语时，be动词的单复数要与最接近的主语一致，即遵循就近原则。"
+    },
+    {
+      "en": "Once upon a time, there was an old man.",
+      "note": "There be句型还有一个很常用的场合，那就是用于故事发生的开头，交代故事发生的时间。此时，因为是在讲述故事，所以be动词常用过去式，而且还常与过去时间副词连用。"
+    }
+  ],
+  "variations": [
+    {
+      "label": "一般现在时肯定型（主语为单数）",
+      "en": "There is a girl."
+    },
+    {
+      "label": "一般现在时否定型（主语为单数）",
+      "en": "There isn't a girl."
+    },
+    {
+      "label": "一般现在时肯定型（主语为复数）",
+      "en": "There are two girls."
+    },
+    {
+      "label": "一般现在时否定型（主语为复数）",
+      "en": "There aren't two girls."
+    },
+    {
+      "label": "一般过去时肯定型（主语为单数）",
+      "en": "There was a girl."
+    },
+    {
+      "label": "一般过去时否定型（主语为单数）",
+      "en": "There wasn't a girl."
+    },
+    {
+      "label": "一般过去时肯定型（主语为复数）",
+      "en": "There were two girls."
+    },
+    {
+      "label": "一般过去时否定型（主语为复数）",
+      "en": "There weren't two girls."
+    },
+    {
+      "label": "一般将来时肯定型（主语为单数）",
+      "en": "There will be a girl."
+    },
+    {
+      "label": "一般将来时否定型（主语为单数）",
+      "en": "There won't be a girl."
+    },
+    {
+      "label": "一般将来时肯定型（主语为复数）",
+      "en": "There will be two girls."
+    },
+    {
+      "label": "一般将来时否定型（主语为复数）",
+      "en": "There won't be two girls."
+    }
+  ]
+}

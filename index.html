@@ -453,9 +453,9 @@ function savePatternScore(pid, modeId, score, total) {
   if (!p.patterns) p.patterns = {};
   if (!p.patterns[pid]) p.patterns[pid] = {modes:{},unlocked:pid===1};
   p.patterns[pid].modes[modeId] = {score,total,pct:Math.round(score/total*100),date:Date.now()};
-  // 检查是否解锁下一个
+  // 检查是否解锁下一个（完成1个模式且≥60%即解锁）
   const completed = Object.values(p.patterns[pid].modes).filter(m => m.pct >= 60).length;
-  if (completed >= 3 && pid < 56) {
+  if (completed >= 1 && pid < 56) {
     if (!p.patterns[pid+1]) p.patterns[pid+1] = {modes:{},unlocked:true};
     else p.patterns[pid+1].unlocked = true;
   }
@@ -478,7 +478,22 @@ function getModeScore(pid, modeId) {
 
 // 同步解锁状态到 PATTERN_INDEX
 function syncUnlockState() {
-  PATTERN_INDEX.forEach(item => {
+  // 补救：按新条件（1个模式≥60%）检查是否应解锁
+  var p = loadProgress();
+  if (p.patterns) {
+    for (var pid = 1; pid < 56; pid++) {
+      if (p.patterns[pid] && p.patterns[pid].modes) {
+        var ok = Object.values(p.patterns[pid].modes).filter(function(m){ return m.pct >= 60; }).length;
+        if (ok >= 1) {
+          var next = pid + 1;
+          if (!p.patterns[next]) p.patterns[next] = {modes:{},unlocked:true};
+          else p.patterns[next].unlocked = true;
+        }
+      }
+    }
+    saveProgress(p);
+  }
+  PATTERN_INDEX.forEach(function(item) {
     item.available = isPatternUnlocked(item.id);
   });
 }
@@ -541,7 +556,23 @@ function renderHome() {
 var currentPatternId = null;
 function openPattern(id) {
   var pattern = LOADED_PATTERNS[id];
-  if (!pattern) return;
+  if (!pattern) {
+    // 未加载的句型显示占位
+    var meta = PATTERN_INDEX.find(function(p){ return p.id === id; });
+    var unit = UNITS.find(function(u){ return u.num === meta.unit; });
+    document.getElementById("breadcrumb").textContent = unit.icon + " " + unit.name;
+    document.getElementById("detail-badge").textContent = "句型 " + id;
+    document.getElementById("detail-title").textContent = meta.title;
+    document.getElementById("detail-subtitle").textContent = unit.name;
+    document.getElementById("explanation").textContent = "该句型内容正在准备中，请先完成前面的句型练习。";
+    document.getElementById("examples-list").innerHTML = "";
+    document.getElementById("variations-list").innerHTML = "";
+    document.getElementById("view-home").classList.remove("active");
+    document.getElementById("view-detail").classList.add("active");
+    switchTab("learn");
+    window.scrollTo(0,0);
+    return;
+  }
   currentPatternId = id;
   var meta = PATTERN_INDEX.find(function(p){ return p.id === id; });
   var unit = UNITS.find(function(u){ return u.num === meta.unit; });
@@ -893,12 +924,18 @@ function renderFinalScore() {
 
   savePatternScore(currentPatternId, quiz.mode, quiz.score, total);
 
+  var unlockMsg = "";
+  if (pct >= 60 && currentPatternId < 56) {
+    unlockMsg = '<div style="margin-top:12px;padding:10px;background:#ECFDF5;border-radius:8px;color:#065F46;font-size:14px;">\u{1F513} 已解锁句型 '+(currentPatternId+1)+'！返回首页可进入</div>';
+  }
+
   area.innerHTML =
     '<div class="quiz-card">' +
       '<div class="score-display">' +
         '<div class="big">'+quiz.score+'/'+total+'</div>' +
         '<div style="margin-top:8px;">'+emoji+' 正确率 '+pct+'%</div>' +
         '<div style="margin-top:6px;font-size:14px;color:#6B7280;">'+msg+'</div>' +
+        unlockMsg +
       '</div>' +
       '<div class="quiz-nav">' +
         '<button class="btn-retry" id="btn-retry-q">再来一轮</button>' +

@@ -1,0 +1,26 @@
+{
+  "id": 4,
+  "unit": 1,
+  "num_in_unit": 4,
+  "title": "Would you like...? 你想要吗？",
+  "explanation": "当我们想询问别人的意愿时，如“你想不想一起去野餐呢？”或“你要不要喝点东西？”，就是用“Would you like...?”这个句型。",
+  "examples": [
+    {
+      "en": "Would you like a ride?",
+      "note": "Would you like...? 意为“你想要……吗？”用来表示礼貌的请求、建议，或询问对方是否需要什么，或征求意见与看法。回答时，如果是肯定，就用“Yes, please.”；如果是否定，就用“No, thanks.”。而根据like后面接的词语不同，又可分为两种搭配。我们先来看第一种：“Would you like＋名词／代词?”，即like后面直接接名词、代词或名词词组。"
+    },
+    {
+      "en": "Would you like some tea?",
+      "note": ""
+    },
+    {
+      "en": "Would you like to go home?",
+      "note": "另一种变化形式则是“Would you like to＋动词原形?”，问的是“你想不想要做某事？”"
+    },
+    {
+      "en": "What would you like  to order, sir?",
+      "note": "另外一个引申句型是“What would you like (＋...)?“这句话常用在餐厅点餐时，意思是“你想要点什么？”。如果想要说“你想要喝点／点些什么？”，则在like后面加上to drink或to order即可；而如果想要具体询问对方某一餐想要点什么，则在like后面接“for＋三餐”即可。"
+    }
+  ],
+  "variations": []
+}

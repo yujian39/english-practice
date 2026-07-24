@@ -1,0 +1,22 @@
+{
+  "id": 22,
+  "unit": 2,
+  "num_in_unit": 11,
+  "title": "It be+时间段+before ... 要再过（时间段）才...",
+  "explanation": "当我们说“我花了两小时才会到达目的地”或“还要再过三个月她才会过来看我们”，表示“要花多少时间才会达成某件事”，就是用“It be＋时间段＋before...”这个句型。",
+  "examples": [
+    {
+      "en": "It will be four days before she finishes the work.",
+      "note": "“It be+时间段+before+从句”中表示时间段的词组通常有a long time、（one，two，three）years/month/days/minute等。before引导的从句中通常用一般现在时表示未来发生的事。"
+    },
+    {
+      "en": "It will be six months before we meet again.",
+      "note": "当主语的动词是肯定时，可以翻译成“过了...（时间）才能...\" “在...（时间）之后才...”"
+    },
+    {
+      "en": "It was not half an hour before I completed my English writing.",
+      "note": "当主句中的动词是否定时，可以翻译成“不到……（时间）就……”。"
+    }
+  ],
+  "variations": []
+}

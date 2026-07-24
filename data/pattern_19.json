@@ -1,0 +1,22 @@
+{
+  "id": 19,
+  "unit": 2,
+  "num_in_unit": 8,
+  "title": "as ... as possible尽可能地",
+  "explanation": "汉语里的“尽量”“尽可能”，就是用“as...as possible”这个句型来表达，例如：“请你尽快回信给我”或“我会尽可能帮你完成这件事”。",
+  "examples": [
+    {
+      "en": "as soon as possible",
+      "note": "这个句型是指达到某种程度或符合某种要求，意思是“尽可能……”，“越……越好”，这个句型还可以说成as... as one can。可根据需要，在两个as之间使用不同的形容词或副词。"
+    },
+    {
+      "en": "as quick as possible",
+      "note": ""
+    },
+    {
+      "en": "as often as possible",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

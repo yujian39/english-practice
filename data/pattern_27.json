@@ -1,0 +1,46 @@
+{
+  "id": 27,
+  "unit": 2,
+  "num_in_unit": 16,
+  "title": "疑问句的四种结构",
+  "explanation": "疑问句是用来提出问题的句子。和汉语一样，英语的疑问句句尾要用问号。英语的疑问句分为一般疑问句、特殊疑问句、选择疑问句和反义疑问句四种。",
+  "examples": [
+    {
+      "en": "Are you hungry？",
+      "note": "一般疑问句"
+    },
+    {
+      "en": "Did he pass the text yesterday?",
+      "note": ""
+    },
+    {
+      "en": "Can I help you?",
+      "note": ""
+    },
+    {
+      "en": "Can't you drive a car?",
+      "note": ""
+    },
+    {
+      "en": "what are they doing in the lab?",
+      "note": "特殊疑问句"
+    },
+    {
+      "en": "Would you like coffee or (would you like) juice?",
+      "note": "选择疑问句"
+    },
+    {
+      "en": "Which do you prefer,talk shows or soap operas?",
+      "note": ""
+    },
+    {
+      "en": "William is an exchange student，isn't he?",
+      "note": "反义疑问句"
+    },
+    {
+      "en": "We don't have classes today, do we?",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

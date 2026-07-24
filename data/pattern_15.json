@@ -1,0 +1,38 @@
+{
+  "id": 15,
+  "unit": 2,
+  "num_in_unit": 4,
+  "title": "it takes （sb.）+时间段+to 做....（某人）要花...（时间）",
+  "explanation": "汉语里的“某人花了多少时间做某件事情”就是用“It takes (sb.)＋时间段＋to do sth.“这个句型，例如：“我花了三个小时才把这件事情完成。或你打算花多少时间做这件事情？”",
+  "examples": [
+    {
+      "en": "It takes ten days to drive there.",
+      "note": "这个句型的意思是“做某事花多长时间”。其中“it”是形式主语，代替真正的主语，而真正的主语是后面的动词不定式。take表示“占用、花费”时间。而要进一步表示“做某事花费了某人多长的时间”，要用句型“It takes＋sb.＋一段时间＋to do sth.”。"
+    },
+    {
+      "en": "It takes me ten days to drive there.",
+      "note": ""
+    },
+    {
+      "en": "It takes me ten days to drive there.",
+      "note": "动词take在这个句型中可以有各种不同的时态变化。"
+    },
+    {
+      "en": "It took me ten days to drive there.",
+      "note": ""
+    },
+    {
+      "en": "It will take me ten days to drive there.",
+      "note": ""
+    },
+    {
+      "en": "How long did it take you to drive to the museum?",
+      "note": "这个句型中的时间提问要用how long，即：How long does/did/will it take (sb.) to do sth.?，意思是“（某人）花多长时间做某事？”"
+    },
+    {
+      "en": "It took me 30 minutes to drive to the museum.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

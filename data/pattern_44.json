@@ -1,0 +1,30 @@
+{
+  "id": 44,
+  "unit": 4,
+  "num_in_unit": 3,
+  "title": "more than... 不只是.......",
+  "explanation": "我们常说“他不只是朋友而已”或“我得这个病已经超过十年了”，其中的“不只……”或“超过……”都可以用“more than...”这个句型来表示。",
+  "examples": [
+    {
+      "en": "I have known him for more than 20 years.",
+      "note": "more than之后接数词、名词、形容词或副词。more than后面接的词不同，代表的意思也不完全相同。"
+    },
+    {
+      "en": "He is more than a famous artist;he is a director,too.",
+      "note": ""
+    },
+    {
+      "en": "I am more than satisfied with the job.",
+      "note": ""
+    },
+    {
+      "en": "I was less than excited to see that the annoying neighbors were here to visit.",
+      "note": "另外，与“more than＋形容词／副词”相反的句型是“less than＋形容词／副词”，意为“不、很少、不很、不到”，具有否定意义。"
+    },
+    {
+      "en": "He is less than happy to hear that he has lost the bet again.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

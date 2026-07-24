@@ -1,0 +1,22 @@
+{
+  "id": 9,
+  "unit": 1,
+  "num_in_unit": 10,
+  "title": "Not both/all/every... 不是两个/每个都......",
+  "explanation": "在汉语里，我们所说的“并不是每个人都喜欢看电视”或“并不是这两样东西都派得上用场”，就是用“Not all/both/every...”这个句型。记得要把Not放在句首哦！",
+  "examples": [
+    {
+      "en": "Not both my parents are teachers.",
+      "note": "这个句型很常见，尤其是阅读英语文章时，意思是“并非……都……”。这里运用了部分否定。在英语中，all、both、every等与否定副词not连用时，就构成部分否定。这里先来看看Not both，它的意思是“并非两个……都……”，用于说话提到的人物或事物有“两个”（不能是三个或一个）时。"
+    },
+    {
+      "en": "Not all students like to watch TV.",
+      "note": "not all的意思是“不是所有的……都……”。"
+    },
+    {
+      "en": "Not every child likes drawing.",
+      "note": "not every的意思是“不是每个……都……”，和not all的意思相当类似，但not every只能用于可数的名词，且后面需接单数名词。"
+    }
+  ],
+  "variations": []
+}

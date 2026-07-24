@@ -316,113 +316,24 @@
   </div>
 </div>
 
+<script src="data.js"></script>
 <script>
-// ===================== 索引 =====================
-const PATTERN_INDEX = [
-  {unit:1,id:1,title:"There be (not)...(没)有...",available:true},
-  {unit:1,id:2,title:"主语+sound/feel/taste/look/smell（like）...听/尝/看/闻起来...",available:false},
-  {unit:1,id:3,title:"What is/does...like？...是什么样子？",available:false},
-  {unit:1,id:4,title:"Would you like...? 你想要吗？",available:false},
-  {unit:1,id:5,title:"How about/what about...？...如何？",available:false},
-  {unit:1,id:6,title:"How long/soon/often...? 多长/多快/常...？",available:false},
-  {unit:1,id:7,title:"too...+(for sb./sth.)+to... 太...以至于不能...",available:false},
-  {unit:1,id:8,title:"(not)...+enough+名词+to do sth. (不)够......以......",available:false},
-  {unit:1,id:9,title:"Let's / let us... 让我们",available:false},
-  {unit:1,id:10,title:"Not both/all/every... 不是两个/每个都......",available:false},
-  {unit:1,id:11,title:"get + v-ed... 变得...",available:false},
-  {unit:1,id:12,title:"Once... 一旦...",available:false},
-  {unit:1,id:13,title:"五大词性 & 五大句型",available:false},
-  {unit:2,id:14,title:"what's the matter (with)...? ...怎么了？",available:false},
-  {unit:2,id:15,title:"it doesn't matter (if/whether)... (无论)...都没关系",available:false},
-  {unit:2,id:16,title:"(it is) no wonder (that)... 难怪......",available:false},
-  {unit:2,id:17,title:"it takes (sb.)+时间段+to... (某人)要花...(时间)",available:false},
-  {unit:2,id:18,title:"why don't...? 何不......？",available:false},
-  {unit:2,id:19,title:"what do you think of/about ...? 你对...有什么看法？",available:false},
-  {unit:2,id:20,title:"will/would you (please)...? 可以请你...吗？",available:false},
-  {unit:2,id:21,title:"as ... as possible 尽可能地",available:false},
-  {unit:2,id:22,title:"... as soon as ... 一...就...",available:false},
-  {unit:2,id:23,title:"so+助动词+主语 也做了",available:false},
-  {unit:2,id:24,title:"It be+时间段+before ... 要再过(时间段)才...",available:false},
-  {unit:2,id:25,title:"It be+not long before ... 不久后",available:false},
-  {unit:2,id:26,title:"及物动词+人/物+名词",available:false},
-  {unit:2,id:27,title:"及物动词+人/物+形容词",available:false},
-  {unit:2,id:28,title:"陈述句的两种结构",available:false},
-  {unit:2,id:29,title:"疑问句的四种结构",available:false},
-  {unit:3,id:30,title:"unless... 除非...",available:false},
-  {unit:3,id:31,title:"whether... or ... 无论是......还是......",available:false},
-  {unit:3,id:32,title:"Isn't (Don't/Can't/Won't...)+sb./sth.? ......不是吗？",available:false},
-  {unit:3,id:33,title:"What/How ...！真是......啊！",available:false},
-  {unit:3,id:34,title:"Do/Would you mind ...? 你介意.......吗？",available:false},
-  {unit:3,id:35,title:"not only ... but also... 不但......还......",available:false},
-  {unit:3,id:36,title:"It's +adj.+of/for sb.+to ... 对......来说是很......",available:false},
-  {unit:3,id:37,title:"I don't think/suppose/believe (that)... 我不觉得/认为/相信......",available:false},
-  {unit:3,id:38,title:"It's time (for sb.) to do sth. 是时候做......了",available:false},
-  {unit:3,id:39,title:"It+be动词+the+序数+time+that从句 这是......第(数字)次......",available:false},
-  {unit:3,id:40,title:"By the time... 到了......的时候......",available:false},
-  {unit:3,id:41,title:"so that... 以......",available:false},
-  {unit:3,id:42,title:"please、let的祈使句",available:false},
-  {unit:3,id:43,title:"what、how的感叹句",available:false},
-  {unit:4,id:44,title:"I wish(that)... 我真希望",available:false},
-  {unit:4,id:45,title:"or/otherwise... 不然......",available:false},
-  {unit:4,id:46,title:"more than... 不只是.......",available:false},
-  {unit:4,id:47,title:"比较级+than... 比......更......",available:false},
-  {unit:4,id:48,title:"the +比较级...，the +比较级... 越...越...",available:false},
-  {unit:4,id:49,title:"I'm afraid(that)... 恐怕......",available:false},
-  {unit:4,id:50,title:"It is/was... that/who... 是......的",available:false},
-  {unit:4,id:51,title:"It is obvious/clear that ... 很明显......",available:false},
-  {unit:4,id:52,title:"It is a pity/shame/surprise that... 很可惜......",available:false},
-  {unit:4,id:53,title:"How/What/When...+can we/I do...? 我(们)可以......？",available:false},
-  {unit:4,id:54,title:"There is no +名词+(in)+动名词 ...做(某事)没有......",available:false},
-  {unit:4,id:55,title:"sb+情态动词+have+过去分词... 某人过去做某事......",available:false},
-  {unit:4,id:56,title:"16种时态：4种时间×4种方式",available:false}
+// ===================== 从 data.js 动态生成 =====================
+var PATTERN_INDEX = [];
+var PATTERNS_BY_ID = ALL_PATTERNS;
+Object.keys(PATTERNS_BY_ID).forEach(function(k) {
+  var p = PATTERNS_BY_ID[k];
+  PATTERN_INDEX.push({unit: p.unit, id: p.id, title: p.title, available: false});
+});
+PATTERN_INDEX.sort(function(a,b){ return a.id - b.id; });
+if (PATTERN_INDEX.length > 0) PATTERN_INDEX[0].available = true;
+
+var UNITS = [
+  {num:1,name:"第一单元：入门的12种句型",icon:"🌱"},
+  {num:2,name:"第二单元：生活必用的14种句型",icon:"🏠"},
+  {num:3,name:"第三单元：畅快聊天12种句型",icon:"💬"},
+  {num:4,name:"第四单元：无障碍沟通12种句型",icon:"🚀"}
 ];
-
-const UNITS = [
-  {num:1,name:"第一单元：入门的12种句型",icon:"\u{1F331}"},
-  {num:2,name:"第二单元：生活必用的14种句型",icon:"\u{1F3E0}"},
-  {num:3,name:"第三单元：畅快聊天12种句型",icon:"\u{1F4AC}"},
-  {num:4,name:"第四单元：无障碍沟通12种句型",icon:"\u{1F680}"}
-];
-
-// ===================== 句型数据 =====================
-const LOADED_PATTERNS = {};
-LOADED_PATTERNS[1] = {
-  id:1, title:"There be (not)...(没)有...",
-  explanation:"在汉语里我们常说的\u201c有一只鸟\u201d或\u201c有一个漂亮的女孩\u201d等，都需要用到there is或there are句型，翻译成汉语就是\u201c有\u2026\u2026\u201d，是最基本的句型。",
-  examples:[
-    {en:"There is a girl.",note:"\u201cThere+be动词+名词+地点/时间\u201d是最常见句型，表示\u201c某地有某人/某物\u201d。否定形式在be动词后加not。"},
-    {en:"There is not a girl.",note:"否定形式示例：be动词后加 not。"},
-    {en:"There was a girl.",note:"be动词可用各种时态：现在式is/are，过去式was/were，未来式will be。"},
-    {en:"There is a pen and two books on the desk.",note:"主语是名词词组时，be动词单复数与最近的主语一致（就近原则）。"},
-    {en:"Once upon a time, there was an old man.",note:"There be句型常用于故事开头，交代时间，常用过去式。"}
-  ],
-  variations:[
-    {label:"一般现在时 肯定（单数）",en:"There is a girl.",zh:"有一个女孩。",key:"is"},
-    {label:"一般现在时 否定（单数）",en:"There isn't a girl.",zh:"没有一个女孩。",key:"isn't"},
-    {label:"一般现在时 肯定（复数）",en:"There are two girls.",zh:"有两个女孩。",key:"are"},
-    {label:"一般现在时 否定（复数）",en:"There aren't two girls.",zh:"没有两个女孩。",key:"aren't"},
-    {label:"一般过去时 肯定（单数）",en:"There was a girl.",zh:"（曾经）有一个女孩。",key:"was"},
-    {label:"一般过去时 否定（单数）",en:"There wasn't a girl.",zh:"（曾经）没有一个女孩。",key:"wasn't"},
-    {label:"一般过去时 肯定（复数）",en:"There were two girls.",zh:"（曾经）有两个女孩。",key:"were"},
-    {label:"一般过去时 否定（复数）",en:"There weren't two girls.",zh:"（曾经）没有两个女孩。",key:"weren't"},
-    {label:"一般将来时 肯定（单数）",en:"There will be a girl.",zh:"将会有一个女孩。",key:"will be"},
-    {label:"一般将来时 否定（单数）",en:"There won't be a girl.",zh:"将不会有一个女孩。",key:"won't be"},
-    {label:"一般将来时 肯定（复数）",en:"There will be two girls.",zh:"将会有两个女孩。",key:"will be"},
-    {label:"一般将来时 否定（复数）",en:"There won't be two girls.",zh:"将不会有两个女孩。",key:"won't be"}
-  ]
-};
-
-const AUDIO_MAP = {
-  "There is a girl.":"c4e1beb3b2.mp3","There is not a girl.":"fe60da5db7.mp3",
-  "There isn't a girl.":"7e44c680a4.mp3","There are two girls.":"315e2621e6.mp3",
-  "There aren't two girls.":"e7a954307c.mp3","There was a girl.":"bf82217e74.mp3",
-  "There wasn't a girl.":"6b5eb59b81.mp3","There were two girls.":"b3dc062e1a.mp3",
-  "There weren't two girls.":"9c44633190.mp3","There will be a girl.":"a292078f50.mp3",
-  "There won't be a girl.":"ce5636d8cb.mp3","There will be two girls.":"7b1715d6ea.mp3",
-  "There won't be two girls.":"b1e452a61e.mp3",
-  "There is a pen and two books on the desk.":"0109e01210.mp3",
-  "Once upon a time, there was an old man.":"af0d6fbe9e.mp3"
-};
 
 // ===================== 练习模式定义 =====================
 const MODES = [
@@ -555,7 +466,7 @@ function renderHome() {
 // ===================== 打开句型 =====================
 var currentPatternId = null;
 function openPattern(id) {
-  var pattern = LOADED_PATTERNS[id];
+  var pattern = PATTERNS_BY_ID[id];
   if (!pattern) {
     // 未加载的句型显示占位
     var meta = PATTERN_INDEX.find(function(p){ return p.id === id; });
@@ -689,14 +600,22 @@ function shuffle(arr) {
 }
 
 function startPractice(modeId) {
-  var pattern = LOADED_PATTERNS[currentPatternId];
+  var pattern = PATTERNS_BY_ID[currentPatternId];
   if (!pattern) return;
   quiz = {mode:modeId,questions:[],current:0,score:0,answered:false,correctAns:""};
 
-  var vars = pattern.variations;
-  var n = Math.min(8, vars.length);
-  var pool = vars.slice(); shuffle(pool);
+  // 优先用 variations，没有则用 examples
+  var source = (pattern.variations && pattern.variations.length > 0) ? pattern.variations :
+               (pattern.examples && pattern.examples.length > 0) ? pattern.examples : [];
+  if (source.length === 0) {
+    document.getElementById("quiz-area").innerHTML =
+      '<div style="text-align:center;padding:40px;color:#6B7280;">该句型暂无可用练习题目</div>';
+    return;
+  }
+  var n = Math.min(8, source.length);
+  var pool = source.slice(); shuffle(pool);
   quiz.questions = pool.slice(0, n);
+  quiz._source = source; // 用于生成干扰选项
   quiz.current = 0; quiz.score = 0;
   renderQuestion();
 }
@@ -705,10 +624,17 @@ function renderQuestion() {
   var area = document.getElementById("quiz-area");
   if (quiz.current >= quiz.questions.length) { renderFinalScore(); return; }
   var q = quiz.questions[quiz.current];
-  var pattern = LOADED_PATTERNS[currentPatternId];
-  var vars = pattern.variations;
+  var pattern = PATTERNS_BY_ID[currentPatternId];
+  var vars = quiz._source || pattern.variations || [];
   quiz.answered = false;
   quiz.correctAns = "";
+
+  // 标准化：确保 q 有 zh 和 key 字段
+  if (!q.zh) q.zh = q.note || q.en;
+  if (!q.key) {
+    var parts = q.en.split(/\s+/);
+    q.key = parts.length > 1 ? parts[1].toLowerCase().replace(/[.,;:!?]$/,'') : parts[0];
+  }
 
   var qnum = '<div class="quiz-qnum">第 '+(quiz.current+1)+' / '+quiz.questions.length+' 题</div>';
 

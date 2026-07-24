@@ -1,0 +1,18 @@
+{
+  "id": 38,
+  "unit": 3,
+  "num_in_unit": 11,
+  "title": "By the time... 到了......的时候......",
+  "explanation": "“到了明年，我们就可以实现梦想了”或“等你回来的时候，我们再好好聊聊”，都是表达到了某个时间点就会发生某件事，这时便可以用by thetime...这个句型。",
+  "examples": [
+    {
+      "en": "By the time I got to the airport,the plane had taken off.",
+      "note": "by the time（that）的意思是“等到...时”，后面接时间从句，that可以省略。经常用来叙述过去发生的事情，表达“到了...的时候，某事’已‘发生”，所以通常前句使用一般过去时，后面接过去完成时。"
+    },
+    {
+      "en": "By the time you come to see me,I will have recovered.",
+      "note": "除了讲述过去已发生的事，也可用来描述未来，表示“等到...的时候，某事就会’已经‘发生”，所以通常前句使用一般现在时，后句使用将来完成时。"
+    }
+  ],
+  "variations": []
+}

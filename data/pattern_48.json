@@ -1,0 +1,26 @@
+{
+  "id": 48,
+  "unit": 4,
+  "num_in_unit": 7,
+  "title": "It is/was... that who ... 是......的",
+  "explanation": "我们常说的“是他把这件事情搞砸的”或“我爷爷是昨天过世的。”就是使用“It is/was...that/who...”这样的句型。这些句子中都强调某个重点，也就是“是……”。",
+  "examples": [
+    {
+      "en": "It was what he did that disappointed me.",
+      "note": "完整结构是“It is/was+被强调部分+that/that/who...”。被强调的部分可以是人、物、时间、地点等，位置都要在It is/was和that/who之间。另外，被强调的无论是人还是物、单数还是复数，be动词一律用单数is/was形式。在强调句型中，连接词一般用that。"
+    },
+    {
+      "en": "It was this man who was rude to our boss.",
+      "note": "但如果是被强调的是人，也可用who/whom，其他一律用that，及时被强调的是物、时间或地点等，也不用which、where、when等。"
+    },
+    {
+      "en": "It was the movie that made her cry.=The movie made her cry.",
+      "note": "判断强调句的方法：先去掉 It is/was...that/who...,如果去掉这两个部分后句子的意思仍然完整，那么这个句子就是强调句型；如果去掉这两个部分后句子的意思仍然完整，那么这个句子就是强调句型。反之，就不是。"
+    },
+    {
+      "en": "It was the cat that I saw yesterday.=The cat I saw yesterday.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

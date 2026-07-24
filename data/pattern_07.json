@@ -1,0 +1,22 @@
+{
+  "id": 7,
+  "unit": 1,
+  "num_in_unit": 7,
+  "title": "too...+（for sb./sth.)+to...太...以至于不能...",
+  "explanation": "在汉语里，我们说“这东西太重了，我搬不动”或“这题目太难了，我不会”，就是用“too...to...”这个句型。要注意的是句型中的“to”含有否定意味，表示“以至于不能……”的意思。",
+  "examples": [
+    {
+      "en": "It's too dangerous to cross the street.",
+      "note": "”too...+（for sb./sth.)+to...“表面看起来是肯定语气，但其实表达了否定意义，意思是“太...而不能...”或“太...以至于无法...”。too后面接形容词或副词，表示否定的原因；to后面接原形动词，表示否定的内容。而句子当中的for sb/sth.则表示“对某人/某事而言”。"
+    },
+    {
+      "en": "I shall be only too pleased to come.",
+      "note": "要注意的是，如果在too...to...的前面出现了only，不仅失去了否定意义，反而加强了它的肯定语气，only too相当于very或very much。"
+    },
+    {
+      "en": "The game is too hard to not be played.",
+      "note": "与too...to...相反的句型是too...to not...。原本的句子是否定的含义，原本的句子是否定的含义，现在加上了一个否定词not，构成了双重否定，所以表达的是肯定意义，常译成“非常...一定能”或“太...不能不”。"
+    }
+  ],
+  "variations": []
+}

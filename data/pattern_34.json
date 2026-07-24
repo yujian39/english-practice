@@ -1,0 +1,26 @@
+{
+  "id": 34,
+  "unit": 3,
+  "num_in_unit": 7,
+  "title": "It‘s +adj.+of/for sb.+to .......对......来说是很......",
+  "explanation": "“这件事对你而言应该轻而易举”以及“你真是太聪明了，竟然想到这个好主意”，这两句话都可以用“It＋形容词＋of/for sb.＋动词不定式”这个句型。但什么情况用of，什么情况用for呢？只要看完这个单元，这个问题你就能轻而易举地判断了！",
+  "examples": [
+    {
+      "en": "It’s stupid of you to have such an idea.",
+      "note": "It's＋形容词＋of/for sb. to do sth.”是一个常见的句型，常翻译成“对某人来说，做某事是……”。句首的it是形式主语，后面的动词不定式才是真正的主语。另外，需要特别注意介词的使用。这个句型中要用of还是for取决于前面的形容词。若形容词表示的是人的特质、性格，如：brave（勇敢的）、careful（小心的）、foolish（愚蠢的）、good（好的）、kind（亲切的）、nice（好的）、clever（聪明的）、stupid（笨的）、wise（有智慧的）等，需用of。"
+    },
+    {
+      "en": "It's very kind of you to do so.",
+      "note": ""
+    },
+    {
+      "en": "It 's very easy for him to pass the exam.",
+      "note": "若形容词只是对动作、事情的一般性描述（不专用来指人），如：difficult（困难的）、easy（简单的）、dangerous（危险的）、important（重要的），则用for。"
+    },
+    {
+      "en": "It's important for us to respect others.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

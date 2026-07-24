@@ -1,0 +1,50 @@
+{
+  "id": 40,
+  "unit": 3,
+  "num_in_unit": 13,
+  "title": "please、let的祈使句",
+  "explanation": "祈使句是用来表示请求、命令、叮嘱、邀请、劝告、号召、祝愿等的句子。需要了解的是，祈使句的主语通常是第二人称，且常被省略。当然，如果要加强语气或为了明确指出请求、命令、邀请时，可以不省略主语you。",
+  "examples": [
+    {
+      "en": "Open your mouth,please.",
+      "note": "一般祈使句的肯定形式：直接用动词原形做谓语，后接宾语、补语等。"
+    },
+    {
+      "en": "Don't worry.",
+      "note": "一般祈使句的否定形式"
+    },
+    {
+      "en": "Never do that again.",
+      "note": ""
+    },
+    {
+      "en": "no+v-ing",
+      "note": ""
+    },
+    {
+      "en": "No smoking.",
+      "note": ""
+    },
+    {
+      "en": "Let me do it by myself.",
+      "note": "let 祈使句的肯定式："
+    },
+    {
+      "en": "Let us forget it.",
+      "note": ""
+    },
+    {
+      "en": "Let's go shopping.",
+      "note": ""
+    },
+    {
+      "en": "Let her go with us.",
+      "note": ""
+    },
+    {
+      "en": "Don't let her play on the street.",
+      "note": "let祈使句的否定式：在let前面加don't或在动词原形加not。"
+    }
+  ],
+  "variations": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": 53,
+  "unit": 4,
+  "num_in_unit": 12,
+  "title": "sb+情态动词+have+过去分词... 某人过去做某事......",
+  "explanation": "“他一定已经把这件事公之于世了”或“我们早应该听他的话”这些句子表达了对过去事件的推断或感触，用英语表达就适合用“sb.＋情态动词＋have＋过去分词...”这个句型。",
+  "examples": [
+    {
+      "en": "She must have gone by bus.",
+      "note": "”must+have+过去分词“只用于肯定句中，表示对过去发生的事情进行肯定的推测，语气比较坚定，意思是“过去一定...”"
+    },
+    {
+      "en": "That can't have been true.",
+      "note": "“can/could+have+done”表示对过去事情的假设，意思是“本来能够做某事（而没有做）”；“can't/couldn't+have+过去分词”表示“过去不可能做过（发生过），一定没做过（发生过）”。"
+    },
+    {
+      "en": "You might have left it in the hotel room.",
+      "note": "“may/might+have+过去分词”表示对已发生的动作进行不肯定的推测，might语气稍弱，表示“过去可能做过（发生过）某事”。"
+    },
+    {
+      "en": "We need not have set off so early.",
+      "note": "虽然没有“need+have+过去分词”这样的结构，但其否定形式很常见，表示“本来不需要做某事（但却还是做了）”。"
+    }
+  ],
+  "variations": []
+}

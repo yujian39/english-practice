@@ -1,0 +1,34 @@
+{
+  "id": 26,
+  "unit": 2,
+  "num_in_unit": 15,
+  "title": "陈述句的两种结构",
+  "explanation": "（1）肯定陈述句",
+  "examples": [
+    {
+      "en": "I like cartoons.",
+      "note": ""
+    },
+    {
+      "en": "My father is a lawyer.",
+      "note": ""
+    },
+    {
+      "en": "I don't like hamburgers.",
+      "note": "否定陈述句"
+    },
+    {
+      "en": "She wasn't at home during that time.",
+      "note": ""
+    },
+    {
+      "en": "He hasn't come back yet.",
+      "note": ""
+    },
+    {
+      "en": "My mother can't speak Chinese.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

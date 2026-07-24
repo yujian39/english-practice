@@ -1,0 +1,22 @@
+{
+  "id": 23,
+  "unit": 2,
+  "num_in_unit": 12,
+  "title": "It be+not long before ... 不久后",
+  "explanation": "我们常说的“不久之后”，可以用“It be＋not long before...”这个句型来表达，例如“不久之后，我就把这件事情忘了”或“要不了多久，敌军就会投降的”。",
+  "examples": [
+    {
+      "en": "It won't be long before I know the result of the experiment.",
+      "note": "“It be＋not long before＋从句”，意思是“不久就……”。强调主句所表达的内容时间不长、花费力气小。"
+    },
+    {
+      "en": "Before long,I will know the result of the experiment.",
+      "note": "该句型的含义与before long相近，但before long的后面要加一个逗号。"
+    },
+    {
+      "en": "It was not long before he arrived.",
+      "note": "虽然“It was not long before ”表示“没过多久”，但不能反过来不用否定，因为“It be long before”表示“要很久”。"
+    }
+  ],
+  "variations": []
+}

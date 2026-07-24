@@ -1,0 +1,22 @@
+{
+  "id": 6,
+  "unit": 1,
+  "num_in_unit": 6,
+  "title": "How long/soon/often...?多长/多快/常...？",
+  "explanation": "当我们想要询问他人“做……需要多长时间？”，就可以用“Howlong...?”这个句型。问“多快会……？”则可以用“How soon...?”这个句型。要问“多常……？”则可以用“How often...?”这个句型。",
+  "examples": [
+    {
+      "en": "How long have you lived here?",
+      "note": "How long...？是问时间长短，询问某延续性动作会持续“多长时间”。问句中经常使用延续性动词（如动词进行式），或表达“一段时间”的动词完成式，但视情况也可能使用其他的动词形式。回答时则要用表示一段时间的词语回答，如three days、since1999等。"
+    },
+    {
+      "en": "How soon can we see each other again?",
+      "note": "How soon...？通常是用来询问“过多久以后就做某事？”“某事多快会发生？”，通常与一般将来时连用。回答时常用“in+时间”。"
+    },
+    {
+      "en": "How often do you visit your parents?",
+      "note": "How often是针对频率询问做某事“多久一次”或“多常做”。回答时常用频率副词often、sometimes、usually、once a wee、twice a month等。"
+    }
+  ],
+  "variations": []
+}

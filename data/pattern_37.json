@@ -1,0 +1,22 @@
+{
+  "id": 37,
+  "unit": 3,
+  "num_in_unit": 10,
+  "title": "It+be动词+the+序数+time+that从句 这是......第（数字）次......",
+  "explanation": "我们常说“这是我跟他的初吻”或“我第一次看到这么美的景色”，表达第几次做某件事情，就可以用“It＋be动词＋the＋序数＋time＋that从句”这个句型。",
+  "examples": [
+    {
+      "en": "It is the third time I have been here.",
+      "note": "句型“It is the＋序数词＋time＋that从句”的意思是“第……次做……”。其中的that从句常用现在完成式。需要注意的是，It is the＋序数＋time后面接的是that引导的从句，关系词只能用that，that可以省略。"
+    },
+    {
+      "en": "It was the first time that I had net her.",
+      "note": "这个句型还可以改为一般过去时，延伸为”It was the first/second/third...time+that从句“。因为主句中的be动词是was，所以后面的that从句要用过去完成时。"
+    },
+    {
+      "en": "This is the first time I have given students a lesson in French.",
+      "note": "这个句型中it还可以改为this。"
+    }
+  ],
+  "variations": []
+}

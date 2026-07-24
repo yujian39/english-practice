@@ -1,0 +1,18 @@
+{
+  "id": 50,
+  "unit": 4,
+  "num_in_unit": 9,
+  "title": "It is a pity (shame/surprise...) that ... 很可惜（可惜/惊讶）......",
+  "explanation": "我们常表现的情绪如“真可惜……”“真遗憾……”“真丢脸……”“真令人惊讶……”等，都可以用这类句型来表达。",
+  "examples": [
+    {
+      "en": "It is a surprise that you should be older than I am.",
+      "note": "句型“It is a pity (shame/surprise...) that...”表达的是说话者某种感情或感受，比如惊奇、懊悔、失望、不满等。从句的情况发生在主句情况之前。that后的从句常用虚拟语气，即“should＋动词原形”。should用于加强说话人的语气，有“居然、竟然”的意思。该句型从句中的动词有两种形式：should do或should have done。should do表示现在或将来发生的事，should have done表示过去发生的事情。"
+    },
+    {
+      "en": "It's a shame that you can't come to the party.",
+      "note": "其中表达“居然、竟然”的should并不一定要加上，如果没有想要特别强调“居然、竟然”，此句型的that从句用陈述语气即可。"
+    }
+  ],
+  "variations": []
+}

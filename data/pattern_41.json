@@ -1,0 +1,42 @@
+{
+  "id": 41,
+  "unit": 3,
+  "num_in_unit": 14,
+  "title": "what、how的感叹句",
+  "explanation": "感叹句是用来表达说话时的强烈情感（例如：喜悦、愤怒、惊讶、厌恶、赞美等）的一种特殊句型。和汉语一样，英语中的感叹句句尾也用感叹号。英语感叹句中最基本和最常见的是以what开头的感叹句句型和以how开头的感叹句句型两种。what和how与所修饰的词放在较前位置，其他部分用陈述句语序。",
+  "examples": [
+    {
+      "en": "What a cute puppy (it is)!",
+      "note": "以what开头的感叹句"
+    },
+    {
+      "en": "What beautiful flowers (they are)!",
+      "note": ""
+    },
+    {
+      "en": "What bad news (it is)!",
+      "note": ""
+    },
+    {
+      "en": "What Dad suffered in the past!",
+      "note": ""
+    },
+    {
+      "en": "How moving the story is!",
+      "note": "以how 开头的感叹句"
+    },
+    {
+      "en": "How high he jumped!",
+      "note": ""
+    },
+    {
+      "en": "How we miss you!",
+      "note": ""
+    },
+    {
+      "en": "How brave a soldier he is!",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

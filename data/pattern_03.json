@@ -1,0 +1,26 @@
+{
+  "id": 3,
+  "unit": 1,
+  "num_in_unit": 3,
+  "title": "What is/does...like？...是什么样子？",
+  "explanation": "在汉语里，当我们说“你男朋友怎么样啊？”时，表示我们想知道对方男朋友的外表、性格、生活等各方面的情形。在英语里就是用Whatis/does...like?这个句型来表示。",
+  "examples": [
+    {
+      "en": "What is your job like?",
+      "note": "What is ... like?询问的是“人”的性格、能力、外表或给人的印象等，以及“事物”的特质、特征、特定情况等，优势甚至需要做详细的描述"
+    },
+    {
+      "en": "What's her boyfriend like ?",
+      "note": ""
+    },
+    {
+      "en": "What does your boss look like?",
+      "note": "What does... look like?多用来询问“外表看起来的样子”，可用来问“人”或“物”的外表特征。look也可改成其他的感官动词如taste、sound、feel等（感官动词于前一句型有更详细的描述），表示询问某物“吃起来是什么样子”、“听起来是什么样子”、“摸起来是什么感觉”等。"
+    },
+    {
+      "en": "What does their new song sound like ?",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

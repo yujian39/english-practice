@@ -1,0 +1,14 @@
+{
+  "id": 35,
+  "unit": 3,
+  "num_in_unit": 8,
+  "title": "I don't think/suppose/believe (that) ... 我不觉得/认为/相信......",
+  "explanation": "“我认为这个消息是不正确的”“我相信这个消息是不正确的”或“我猜这个消息是不正确的”等，都表达了自己对某件事的否定看法，可以用“Idon't think/suppose/believe (that)...”这个句型。",
+  "examples": [
+    {
+      "en": "I don't believe that he will come.=I believe that he won't come.",
+      "note": "这是由动词think、believe、suppose、expect、fancy、imagine、hope后接从句所构成的“否定转移句型”，其后面从句的否定词not通常会转移到主句中，成为“形式否定主句，意义否定从句”，即主句的动词用否定式，而从句的动词用肯定式。其中的that可以省略掉。"
+    }
+  ],
+  "variations": []
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "unit": 1,
+  "num_in_unit": 5,
+  "title": "How about/what about...？...如何？",
+  "explanation": "当我们问别人“跟我一起去怎么样？”或“改成星期天怎么样？”，我们其实是提出建议，想征得对方的同意。这时就可以用这个句型了。",
+  "examples": [
+    {
+      "en": "How about tomorrow?",
+      "note": "这个句型在口语中的使用频率很高，意思是“...怎么样？”，用来征求意见、询问消息或提出建议。多数情况是表达“建议对方和自己达成共识、一起做某事”。后面可以接名词或名词词组（How about+名词？），或者接“动词-ing”形式（How about+动词-ing？）"
+    },
+    {
+      "en": "Let's go to a movie,just you and me?",
+      "note": "What about和How about是可以互换的，表达的意思基本相同，都用于表示请求、建议或询问等。唯一一个比较微小的差别在于，Whatabout也可以用来表达“……怎么办？”的意思，回答者必须给予一个解决方法；How about则一般不会这样用，回答者也不见得需要提出解决方法。"
+    }
+  ],
+  "variations": []
+}

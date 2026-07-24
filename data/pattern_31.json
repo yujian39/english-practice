@@ -1,0 +1,30 @@
+{
+  "id": 31,
+  "unit": 3,
+  "num_in_unit": 4,
+  "title": "What/How ...！真是 ......啊！",
+  "explanation": "当我们想要感叹某个人或某件事情时，会说“多美的景色呀！”或“真是愚蠢的行为啊！”，便可以用“What/How...?”这个句型来表达。",
+  "examples": [
+    {
+      "en": "What a clever boy he is！= What a clever boy！",
+      "note": "what后面要接名词，当该名词为可数名词单数时，要在what后加上冠词a(n)，形容词只是用来进一步修饰名词的。what引导的感叹句句型结构大致上有以下两种（主语和谓语是正常语序，有时可以省略）。"
+    },
+    {
+      "en": "What sweet children they are！=What sweet children！",
+      "note": ""
+    },
+    {
+      "en": "How clever a boy he is!",
+      "note": "how在此为副词，用来修饰形容词或副词。"
+    },
+    {
+      "en": "How crazy his plan seems!",
+      "note": ""
+    },
+    {
+      "en": "How well Jane can skate!",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

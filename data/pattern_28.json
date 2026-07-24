@@ -1,0 +1,18 @@
+{
+  "id": 28,
+  "unit": 3,
+  "num_in_unit": 1,
+  "title": "unless... 除非...",
+  "explanation": "我们常说的“除非……”，含有交换条件的意味，在英语里就是用“unless...”这个句型来表达，例如：“除非你答应不说出去，我才告诉你这个秘密。”",
+  "examples": [
+    {
+      "en": "You will fail the exam unless you study harder.=If you do not study harder,you will fail the exam.",
+      "note": "unless具有否定意义，常译为“除非...”、“如果不...就不...”。unless在意思上比较接近if...not，所以两者常可交替使用，只是unless的语气比if...not重。"
+    },
+    {
+      "en": "Don't consult a dictionary unless you really don't understand the word.",
+      "note": "不过，unless和if...not也不是百分之百能够互相通用！如果unless引导的从句本身是否定形式，unless就不能由if...not替代。"
+    }
+  ],
+  "variations": []
+}

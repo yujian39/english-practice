@@ -1,0 +1,22 @@
+{
+  "id": 16,
+  "unit": 2,
+  "num_in_unit": 5,
+  "title": "why don't...? 何不......？",
+  "explanation": "我们常说的“为什么不把灯打开呢？”或“何不尝尝这个呢？”，虽然表面上是询问对方，但其实是给对方建议，在英语里，“Why don't...?”这个句型也有相同的含意。",
+  "examples": [
+    {
+      "en": "Why don't we go now?",
+      "note": "这个句型是一个很有用的日常用语，用于说话人提出建议或劝说，意思是“何不……？”、“为什么不……？”。由于don't必须搭配第一、第二人称或第三人称复数，因此Why don't后面需接上I、we（第一人称）、you（第二人称）、they（第三人称）、the Johnsons（约翰逊一家人）等能够搭配don't的词，然后再接上动词原形。如果要建议的是第三人称单数（he、she、it）等，则don't要改成dosen't。"
+    },
+    {
+      "en": "How about going swimming?",
+      "note": "why don't...？也可以简化为why not？，可以单独使用，用来表示同意、不满或反问，可以译为“为什么不呢？”"
+    },
+    {
+      "en": "Why not？",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

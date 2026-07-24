@@ -1,0 +1,42 @@
+{
+  "id": 32,
+  "unit": 3,
+  "num_in_unit": 5,
+  "title": "Do/Would you mind ... ?你介意.......吗？",
+  "explanation": "汉语里所说的“你介意我抽烟吗？”或“你介意我们换个话题吗？”，表示委婉地询问对方的意见，便可以用“Do/Would you mind...?”这个句型。",
+  "examples": [
+    {
+      "en": "Do you mind my smoking here？= Do you mind if I smoke here？",
+      "note": "当你想做某件事，但这件事可能会妨碍到别人，你可以用这个句型问对方以征求意见。mind后可以接“my+v-ing”，也可接从句。"
+    },
+    {
+      "en": "Do you mind my opening the window?＝Do you mind if I open the window?",
+      "note": ""
+    },
+    {
+      "en": "Would you mind carrying this for me?",
+      "note": "以上句型为说话者（“我”）本身要做事，那么如果说话者想请求对方（“你”）帮自己做事呢？可用Do/Would you mind doing sth.?的句型。"
+    },
+    {
+      "en": "Do you mind showing me the way?",
+      "note": ""
+    },
+    {
+      "en": "Would you mind looking after my cat?",
+      "note": "那么被问到这个句型时，该如何回答？一般而言，回答时，如果你回答同意或不反对别人做某事，答案用否定形式，经常会用的是Certainly not./Of course not.等，意思是“我不介意”；而如果你不同意别人做某事，通常也不会说“Yes，I mind.”太过直接)，而是一般会用I 'm sorry.../I'm afraid...,或说I’d rather you didn't./I wish you wouldn‘t.等缓和语气，婉转拒绝。"
+    },
+    {
+      "en": "Not at all. I'd be happy to.",
+      "note": ""
+    },
+    {
+      "en": "Would you mind looking after my cat?",
+      "note": ""
+    },
+    {
+      "en": "Sorry, I'm allergic.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

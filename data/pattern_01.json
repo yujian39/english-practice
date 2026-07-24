@@ -1,5 +1,7 @@
 {
   "id": 1,
+  "unit": 1,
+  "num_in_unit": 1,
   "title": "There be (not)...(没)有...",
   "explanation": "在汉语里我们常说的“有一只鸟”或“有一个漂亮的女孩”等，都需要用到there is或there are句型，翻译成汉语就是“有……”（单纯说某人或某事物“存在”，没有特别说出人或物在“哪里”），是最基本的句型。",
   "examples": [
@@ -31,51 +33,75 @@
   "variations": [
     {
       "label": "一般现在时肯定型（主语为单数）",
-      "en": "There is a girl."
+      "en": "There is a girl.",
+      "zh": "有一个女孩",
+      "key": "is"
     },
     {
       "label": "一般现在时否定型（主语为单数）",
-      "en": "There isn't a girl."
+      "en": "There isn't a girl.",
+      "zh": "没有一个女孩",
+      "key": "isn't"
     },
     {
       "label": "一般现在时肯定型（主语为复数）",
-      "en": "There are two girls."
+      "en": "There are two girls.",
+      "zh": "有两个女孩",
+      "key": "are"
     },
     {
       "label": "一般现在时否定型（主语为复数）",
-      "en": "There aren't two girls."
+      "en": "There aren't two girls.",
+      "zh": "没有两个女孩",
+      "key": "aren't"
     },
     {
       "label": "一般过去时肯定型（主语为单数）",
-      "en": "There was a girl."
+      "en": "There was a girl.",
+      "zh": "（曾经）有一个女孩",
+      "key": "was"
     },
     {
       "label": "一般过去时否定型（主语为单数）",
-      "en": "There wasn't a girl."
+      "en": "There wasn't a girl.",
+      "zh": "（曾经）没有一个女孩",
+      "key": "wasn't"
     },
     {
       "label": "一般过去时肯定型（主语为复数）",
-      "en": "There were two girls."
+      "en": "There were two girls.",
+      "zh": "（曾经）有两个女孩",
+      "key": "were"
     },
     {
       "label": "一般过去时否定型（主语为复数）",
-      "en": "There weren't two girls."
+      "en": "There weren't two girls.",
+      "zh": "（曾经）没有两个女孩",
+      "key": "weren't"
     },
     {
       "label": "一般将来时肯定型（主语为单数）",
-      "en": "There will be a girl."
+      "en": "There will be a girl.",
+      "zh": "将会有一个女孩",
+      "key": "will be"
     },
     {
       "label": "一般将来时否定型（主语为单数）",
-      "en": "There won't be a girl."
+      "en": "There won't be a girl.",
+      "zh": "将会没有一个女孩",
+      "key": "won't"
     },
     {
       "label": "一般将来时肯定型（主语为复数）",
-      "en": "There will be two girls."
+      "en": "There will be two girls.",
+      "zh": "将会有两个女孩",
+      "key": "will be"
     },
     {
       "label": "一般将来时否定型（主语为复数）",
-      "en": "There won't be two girls."
+      "en": "There won't be two girls.",
+      "zh": "将会没有两个女孩",
+      "key": "won't"
     }
   ]
 }

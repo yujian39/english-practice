@@ -1,0 +1,30 @@
+{
+  "id": 20,
+  "unit": 2,
+  "num_in_unit": 9,
+  "title": "... as soon as ... 一...就...",
+  "explanation": "当我们要强调一件事情紧接着一件事情发生时，比如“我一看到她，就呆掉了”或“老师一进来，全班就安静了”，就可以用“...as soon as...”这个句型。",
+  "examples": [
+    {
+      "en": "I brush my teeth as soon as I wake up.",
+      "note": "as soon as...表示“一……就……”。as soon as...后面接的句子，若要表示未来的事，通常用一般现在时即可，而不是用一般将来时。至于as soonas...前面的句子，则可用一般现在时、一般过去时或一般将来时。"
+    },
+    {
+      "en": "I brush my teeth the moment I wake up.",
+      "note": "as soon as...和句型the moment (that) /the minute (that)意思相似，这些句子表示“一...就...”"
+    },
+    {
+      "en": "I'll inform you the minute I know the result.",
+      "note": ""
+    },
+    {
+      "en": "On waking up, I brush my teeth.",
+      "note": "on+v-ing也是一种可以表示“一...就...”的句型。它在句中的搭配和as soon as...有点不同，一个接v-ing，一个接从句。"
+    },
+    {
+      "en": "As soon as I wake up,I brush my teeth.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

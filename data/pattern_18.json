@@ -1,0 +1,22 @@
+{
+  "id": 18,
+  "unit": 2,
+  "num_in_unit": 7,
+  "title": "will/would you (please)...?可以请你...吗？",
+  "explanation": "当我们很客气地请对方做某件事时，我们会说：“请你把音量关小一点好吗？”或“你可以帮我搬这些东西吗？”，在英语里就是用“Will/Wouldyou (please)...?”这个句型。",
+  "examples": [
+    {
+      "en": "Would you open this for me?",
+      "note": "这个句型用于向某人提出询问、请求，在口语中尤为常见和实用。可以翻译成“你可以...吗？”、“可不可以请你......”等。would不代表时态，只是表礼貌的语气。would和will的唯一区别是，would比will更加委婉和客气，常用于向陌生人提出请求。"
+    },
+    {
+      "en": "would  you please tell him to call me back？",
+      "note": "如果要加上please，可以将please放在will you或would you的后面，或者放在句子末尾。"
+    },
+    {
+      "en": "will you hold this bag for a moment,please?",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

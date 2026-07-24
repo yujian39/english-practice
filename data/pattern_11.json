@@ -1,0 +1,30 @@
+{
+  "id": 11,
+  "unit": 1,
+  "num_in_unit": 12,
+  "title": "Once...一旦...",
+  "explanation": "汉语里的“你一来，我们就可以开动了”或“一旦你答应了，你就必须遵守诺言”，就是使用“Once...”这个句型。",
+  "examples": [
+    {
+      "en": "Once you begin,you must go on.",
+      "note": "“once+时间状语从句+主句”，这个句型表示时间上的两个动作或两件事彼此紧接着发生，且含条件意味(即第一件事发生后，紧接着第二件事才能发生)。"
+    },
+    {
+      "en": "Once your novel is printed，your novel will be very popular。= Once printed，your novel will be very popular。",
+      "note": "若时间状语从句中的主语与主句的主语相同，且谓语中含有be动词时，可以省略从句的主语和be动词。"
+    },
+    {
+      "en": "Once you start the game,you must finish it.",
+      "note": "无论前一句是什么时态，后一句常接“主语+情态动词等”"
+    },
+    {
+      "en": "Once the plane took off，we felt excited。",
+      "note": "后一句也有接“主语+一般动词”的情况，但动词时态就需配合前一句。"
+    },
+    {
+      "en": "Once you start the game， you paly it to the end。",
+      "note": "前一句一般不会使用“will”，使用一般现在时已能表达一般将来时的意思。"
+    }
+  ],
+  "variations": []
+}

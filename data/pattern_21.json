@@ -1,0 +1,30 @@
+{
+  "id": 21,
+  "unit": 2,
+  "num_in_unit": 10,
+  "title": "so+助动词+主语 也做了",
+  "explanation": "要附和别人的说法时，我们会说“我也是”“我也一样”或“大家都是这样”，这时候，就可以用“so＋助动词＋主语”这个句型来表达。",
+  "examples": [
+    {
+      "en": "I had a good time and so did John.",
+      "note": "句型“so＋助动词＋主语”用来表示“……也一样”“……也是如此”。这个句型中的主语并非指上句主语所代表的人或物，而是指后面出现的另外一个人或物。其中的助动词就用来代替上句的全部动作内容，所以要与其后面的主语保持时态和单复数的一致。so后面是典型的部分倒装。"
+    },
+    {
+      "en": "Mary can swim and so can Jason.",
+      "note": ""
+    },
+    {
+      "en": "I didn't have a good time and neither did John.",
+      "note": "句型“neither/nor+助动词+主语”与上面句型相对应，用来表示某人（物）具有与前者相同的否定情况，意为“...也不...”。"
+    },
+    {
+      "en": "\"Mary can't swim.\" \"Neither can Jason.\"",
+      "note": ""
+    },
+    {
+      "en": "\"Your brother studies very hard.\" \"So he does.\"",
+      "note": "有一个与so＋助动词＋主语容易混淆的句型：so＋主语＋助动词。这个句型是个强调句型，用来表示赞同对方的话语，意为……确实如此。其中的主语与上句所提到的是同一个人或物。so后面是陈述语序，而不是倒装语序。"
+    }
+  ],
+  "variations": []
+}

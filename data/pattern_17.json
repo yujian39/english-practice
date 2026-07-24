@@ -1,0 +1,30 @@
+{
+  "id": 17,
+  "unit": 2,
+  "num_in_unit": 6,
+  "title": "what do you think of/about ...?你对...有什么看法？",
+  "explanation": "我们在询问别人的看法时，常会说：“你觉得这个主意怎么样？”或“你觉得怎么样？“在英语里就是用“What do you think of/about...?”这个句型来表达。",
+  "examples": [
+    {
+      "en": "What do you think of this serial drama?",
+      "note": "“What do you think of/about...?”这个句型在口语中很常见，意思是“你认为……怎么样／如何？”。这个句型用来询问对方对某事或某人的看法和态度。"
+    },
+    {
+      "en": "What do you think about this book?",
+      "note": ""
+    },
+    {
+      "en": "What do you think of this movie?",
+      "note": "of或about后面要接名词、代词或动名词。"
+    },
+    {
+      "en": "What do you think of me?",
+      "note": ""
+    },
+    {
+      "en": "What do you think of going shopping?",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

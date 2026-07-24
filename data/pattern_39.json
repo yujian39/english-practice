@@ -1,0 +1,26 @@
+{
+  "id": 39,
+  "unit": 3,
+  "num_in_unit": 12,
+  "title": "so that... 以......",
+  "explanation": "汉语里的“赶快把作业写完，这样你就可以出去玩了”或“他一直用功读书，是为了拿到奖学金”，都是表达因果关系，这时便可以用so that...这个句型。",
+  "examples": [
+    {
+      "en": "I went by taxi so that I should not miss the concert.",
+      "note": "so that...后面可以引导从句，表示“以便......、为了......、目的是......”此时，从句中的常用can、could、may、might、will、would、should等。"
+    },
+    {
+      "en": "He ran fast so that he could win the race.",
+      "note": "如果so that...引出的从句为否定结构，则其谓语常用“should+v.”，此时表示“免得”或“以免”。"
+    },
+    {
+      "en": "He ran fast so that he could win the race.",
+      "note": "“so that...”可别和“so...that...”句型搞混了！后者的意思是“如此……以至于……”。看看下面的例子："
+    },
+    {
+      "en": "He ran so fast that he broke two records.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

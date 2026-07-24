@@ -1,0 +1,26 @@
+{
+  "id": 29,
+  "unit": 3,
+  "num_in_unit": 2,
+  "title": "whether... or ... 无论是......还是......",
+  "explanation": "汉语里所说的“无论你要走还是要留，我都支持你”或“不管你答不答应，我都要这么做”，都可以用“whether... or...”这个句型来表达。",
+  "examples": [
+    {
+      "en": "whether you like or dislike the job，you have to finish it.",
+      "note": "whether...or...意为“无论是....还是...”，它可以用于引出正反、对错等两种概念，是一种强烈的让步语气，即不管情况如何，正反两方面都估计在内，总之，不会影响后面主句动作的结果。whether...or...结构中，or不可省略，也不能用if来取代whether。"
+    },
+    {
+      "en": "I don't know whether to read or to go to bed.",
+      "note": "whether...or...后面可以接动词不定式、形容词或从句等。"
+    },
+    {
+      "en": "Whether happy or sad , she always tries to keep smiling.",
+      "note": ""
+    },
+    {
+      "en": "I'm not sure whether we should stay or go.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

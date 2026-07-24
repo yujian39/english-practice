@@ -1,0 +1,58 @@
+{
+  "id": 42,
+  "unit": 4,
+  "num_in_unit": 1,
+  "title": "I wish(that)...我真希望",
+  "explanation": "在许愿时，我们常会说“希望……”、“但愿……”或“祝你……”，这时，都可以用“I wish...”这个句型来表达，例如：“真希望你在这里”、“但愿这不是真的”或“祝你佳节愉快”等。",
+  "examples": [
+    {
+      "en": "I wish I had a cat.",
+      "note": "I wish (that)...是一个使用虚拟语气的典型句型。wish后面接that从句，从句使用虚拟语气表示某种不能实现的主观愿望，他们都与事实相反。that经常被省略。假设内容的时态都应比事实的时态“往后退一步”。"
+    },
+    {
+      "en": "I wish I had gone  to bed earlier last night.",
+      "note": ""
+    },
+    {
+      "en": "I wish I were taller.",
+      "note": "一般情况下，wish自身的时态并不影响从句的动词形式，所以如果将wish改为过去式wished,其后的that从句中的动词形式不变。"
+    },
+    {
+      "en": "I wished I were taller.",
+      "note": ""
+    },
+    {
+      "en": "He wished he hadn't met her",
+      "note": "另外，这个句型的主语也可以是其他人称。"
+    },
+    {
+      "en": "They wish they could have come to the party.",
+      "note": ""
+    },
+    {
+      "en": "I wish I had a car.",
+      "note": "多看看这个句型的各种变化"
+    },
+    {
+      "en": "I wish you had more money.",
+      "note": ""
+    },
+    {
+      "en": "I wish I had been nicer to him.",
+      "note": ""
+    },
+    {
+      "en": "I wish I could have gone to the party.",
+      "note": ""
+    },
+    {
+      "en": "I wish I could go swimming tomorrow.",
+      "note": ""
+    },
+    {
+      "en": "I wish they would sign the contract.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

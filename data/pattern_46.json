@@ -1,0 +1,22 @@
+{
+  "id": 46,
+  "unit": 4,
+  "num_in_unit": 5,
+  "title": "the +比较级...，the +比较级... 越...越...",
+  "explanation": "我们常说的“越快越好”或“你越是斤斤计较，朋友就越会躲得远远的”，这种“越……越……”的表达方式就可以用“the＋比较级, the＋比较级”这个句型。",
+  "examples": [
+    {
+      "en": "The easier the text is,the sooner the students turn in their papers.",
+      "note": "这是个比较的句型，表示“越……，越……”的意思。前后两个the都需要接形容词或副词的比较级。这个句型由一个主句和一个从句构成。主句和从句都可以有所省略。主句如果是一般将来时，从句可以用现在进行时代替一般将来时。在这个句型中，两个“比较级”不一定要词性相同，它们各自的词性要依句子的需要而定。"
+    },
+    {
+      "en": "She has turned thinner and paler.",
+      "note": "比较级+and+比较级，表示“越来越...”。在这个句型中，如果形容词是多音节单词，那么这个句型就要变成：more and more+形容词原形"
+    },
+    {
+      "en": "Games have become more and more fascinating and expensive.",
+      "note": ""
+    }
+  ],
+  "variations": []
+}

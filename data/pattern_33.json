@@ -1,0 +1,22 @@
+{
+  "id": 33,
+  "unit": 3,
+  "num_in_unit": 6,
+  "title": "not only ... but also... 不但......还......",
+  "explanation": "我们常说的“这东西又贵又难吃”或“这个计划不仅新颖，而且周全”，强调某个人或某件事物同时具有两个特征，就可以用not only... butalso...这个句型。",
+  "examples": [
+    {
+      "en": "You should not only be bold but also be cautious.",
+      "note": "这个句型是由not only和but also连接两个并列对等的概念，但是强调的重点是在后面，表示“不但……而且……”的意思。并列的两部分要分别放在not only和but also的后面。并列的两部分在结构上要保持一致。"
+    },
+    {
+      "en": "He's not only cute but also smart.",
+      "note": ""
+    },
+    {
+      "en": "Not only we but also our teacher has participated in the party.",
+      "note": "如果这个句型连接的两个并列部分是不同的主语，那么动词应该遵从“就近原则”，与其接近的那个主语保持人称和单复数的一致。"
+    }
+  ],
+  "variations": []
+}

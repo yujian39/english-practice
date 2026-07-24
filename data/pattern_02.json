@@ -1,0 +1,103 @@
+{
+  "id": 2,
+  "unit": 1,
+  "num_in_unit": 2,
+  "title": "主语+sound/feel/taste/look/smell（like） ...听/尝/看/闻起来...",
+  "explanation": "汉语里常说的“听起来很不错”或“看起来很漂亮”等，都是运用到眼、耳、鼻、舌等感官来描述某样东西，在英语里要用sound、feel、taste、look、smell等感官动词来表现。",
+  "examples": [
+    {
+      "en": "You look like pale.",
+      "note": "这个句型的关键在于“感官动词”，常见的感官动词有sound（听起来）、feel（感觉起来）、taste（尝起来）、look（看起来）、smell（闻起来）。这五个感官动词和一般动词不一样，一般动词后面常接副词，而感官动词后面却常接形容词，来说明主语的状态，即：“主语＋sound/feel/taste/look/smell＋形容词”。"
+    },
+    {
+      "en": "You sound like your mom.",
+      "note": "感官动词也经常和like连用，like是介词，意思是“像……”，后面要接名词，即：“主语＋sound/feel/taste/look/smell＋like＋名词”，其意思是“某人或物听起来／摸起来／尝起来／看起来／闻起来像某人或物”。"
+    },
+    {
+      "en": "She looks like  a princess.",
+      "note": ""
+    },
+    {
+      "en": "You sound very tired.",
+      "note": "前面说过感官动词后面应接形容词，不接副词。但真的完全不能接副词吗？其实有一种情况可以，就是接一个副词来描述接下来的形容词，也就是“感官动词＋副词＋形容词”的形式。注意，副词是用来描述形容词的，而不是前面的感官动词哦！"
+    },
+    {
+      "en": "It looks really strange.",
+      "note": ""
+    }
+  ],
+  "variations": [
+    {
+      "label": "一般现在时肯定型（主语为单数）",
+      "en": "She looks like an angel.",
+      "zh": "她看像an angel",
+      "key": "look"
+    },
+    {
+      "label": "一般现在时否定型（主语为单数）",
+      "en": "She doesn't look like an angel.",
+      "zh": "She doesn't look like an angel.",
+      "key": "look"
+    },
+    {
+      "label": "一般现在时肯定型（主语为复数）",
+      "en": "They look like brothers.",
+      "zh": "他们看像brothers",
+      "key": "look"
+    },
+    {
+      "label": "一般现在时否定型（主语为复数）",
+      "en": "They don't look like brothers.",
+      "zh": "They don't look like brothers.",
+      "key": "look"
+    },
+    {
+      "label": "一般过去时肯定型（主语为单数）",
+      "en": "She looked like an angel.",
+      "zh": "She looked like an angel.",
+      "key": "look"
+    },
+    {
+      "label": "一般过去时否定型（主语为单数）",
+      "en": "She didn't look like an angel.",
+      "zh": "She didn't look like an angel.",
+      "key": "look"
+    },
+    {
+      "label": "一般过去时肯定型（主语为复数）",
+      "en": "They looked like brothers.",
+      "zh": "They looked like brothers.",
+      "key": "look"
+    },
+    {
+      "label": "一般过去时否定型（主语为复数）",
+      "en": "They didn't look like brothers.",
+      "zh": "They didn't look like brothers.",
+      "key": "look"
+    },
+    {
+      "label": "一般将来时肯定型（主语为单数）",
+      "en": "She will feel sick.",
+      "zh": "She will feel sick.",
+      "key": "feel"
+    },
+    {
+      "label": "一般将来时否定型（主语为单数）",
+      "en": "She won't feel sick.",
+      "zh": "She won't feel sick.",
+      "key": "feel"
+    },
+    {
+      "label": "一般将来时肯定型（主语为复数）",
+      "en": "They will feel sick.",
+      "zh": "They will feel sick.",
+      "key": "feel"
+    },
+    {
+      "label": "一般将来时否定型（主语为复数）",
+      "en": "They won't feel sick.",
+      "zh": "They won't feel sick.",
+      "key": "feel"
+    }
+  ]
+}

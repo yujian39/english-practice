@@ -630,7 +630,7 @@ function renderQuestion() {
   quiz.correctAns = "";
 
   // 标准化：确保 q 有 zh 和 key 字段
-  if (!q.zh) q.zh = q.note || q.en;
+  if (!q.zh) q.zh = '';
   if (!q.key) {
     var parts = q.en.split(/\s+/);
     q.key = parts.length > 1 ? parts[1].toLowerCase().replace(/[.,;:!?]$/,'') : parts[0];
